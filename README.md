@@ -25,4 +25,4 @@ I had a great time writing this, and if anyone would like to contribute to it, g
 
 Otherwise, I plan to add a few more features when I have some time. 
 
-![](C:\Users\Austin\OneDrive\Documents\Adobe\Photoshop Cloud Associates\Spraggins Designs New Logo\cover.png)
+![https://www.spragginsdesigns.com/](cover.png)

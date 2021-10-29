@@ -7,7 +7,7 @@ I created a Battleship game for my IS30A course in Fall of 2021. It is written e
 
 2. Open the folder in your IDE
 
-3. Using Live Server or whatever else, launch the [AustinSpragginsBattleship.html](https://github.com/spragginsdesigns/Battleship-Game-Project/blob/Spraggins-Designs/AustinSpragginsBattleship.html) file and play. 
+3. Using [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) or whatever else, launch the [AustinSpragginsBattleship.html](https://github.com/spragginsdesigns/Battleship-Game-Project/blob/Spraggins-Designs/AustinSpragginsBattleship.html) file and play. 
 
 4. You have 17 battleships to fire at before the game is complete. 
 
